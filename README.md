@@ -5,6 +5,12 @@ For learning :D
 - [ ] Board Games
   - [ ] Unbeatable tik-tak-toe
   - [ ] Unbeatable connnect-four
+  - [ ] Checkers
+  - [ ] Catan
   - [x] Can't think of anything else
 - [ ] Video Games
+  - [ ] Snake
   - [ ] Self driving car
+  - [ ] Mario
+  - [ ] Fighting game
+        
